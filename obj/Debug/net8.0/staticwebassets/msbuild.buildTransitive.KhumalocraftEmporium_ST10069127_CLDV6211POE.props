@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KhumalocraftEmporium_ST10069127_CLDV6211POE.props" />
+</Project>

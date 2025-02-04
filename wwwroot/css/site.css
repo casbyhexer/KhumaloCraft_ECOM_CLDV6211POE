@@ -1,0 +1,294 @@
+/* General Styles */
+body {
+    font-family: 'Playfair Display', serif;
+    background: linear-gradient(to bottom, #003300, #00cc66);
+    color: white;
+    text-align: center;
+}
+
+.artistic-text {
+    font-family: 'Great Vibes', cursive;
+    font-size: 24px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.nav-link {
+    font-size: 22px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+footer {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+/* Hero Section */
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero-banner {
+    width: 100%;
+    max-width: 75px;
+    margin-bottom: 20px;
+}
+
+.banner-img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+/* Updated Hero Content */
+.hero-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    gap: 30px;
+}
+
+.hero-left, .hero-right {
+    flex: 1;
+    text-align: center;
+}
+
+.hero-center {
+    flex: 2;
+    text-align: center;
+}
+
+.hero-text {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.craft-img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+/* About Us Page */
+.about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.about-banner {
+    width: 100%;
+    max-width: 75px;
+    margin-bottom: 20px;
+}
+
+.about-banner-img {
+    width: 75px;
+    height: auto;
+    object-fit: contain;
+}
+
+.about-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.about-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    gap: 30px;
+}
+
+.about-left, .about-right {
+    flex: 1;
+    text-align: center;
+}
+
+.about-text {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    max-width: 400px;
+}
+
+.about-img {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+
+/* Contact Us Page */
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.contact-banner {
+    width: 100%;
+    max-width: 75px;
+    margin-bottom: 20px;
+}
+
+.contact-banner-img {
+    width: 75px;
+    height: auto;
+    object-fit: contain;
+}
+
+.contact-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.contact-img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px;
+    opacity: 0.8;
+    margin-top: 20px;
+}
+
+.response-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.call-list {
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Navigation Buttons */
+.footer {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 20px;
+}
+
+.nav-btn {
+    background-color: #0f0;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    border: 2px solid black;
+    transition: all 0.3s ease-in-out;
+}
+
+    .nav-btn:hover {
+        background-color: black;
+        color: white;
+    }
+
+/* My Work Page */
+.mywork-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.mywork-banner {
+    width: 100%;
+    max-width: 75px;
+    margin-bottom: 20px;
+}
+
+.mywork-banner-img {
+    width: 75px;
+    height: auto;
+    object-fit: contain;
+}
+
+.mywork-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.product-gallery {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin: auto;
+}
+
+.product {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 180px;
+}
+
+.product-img {
+    width: 100%;
+    max-width: 160px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.cart-list, .saved-list {
+    list-style: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Buttons */
+.btn {
+    background-color: #0f0;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    border: 2px solid black;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+    .btn:hover {
+        background-color: black;
+        color: white;
+    }

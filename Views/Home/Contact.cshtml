@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Contact Us - KhumaloCraft";
+}
+
+<div class="contact-container">
+    <div class="contact-banner">
+        <img src="~/icons&images/Phone.png" alt="Phone Icon" class="contact-banner-img">
+    </div>
+    <h1 class="contact-title">Contact Us</h1>
+    <div class="contact-form">
+        <input type="text" id="messageInput" placeholder="Enter A Message ...">
+        <button class="btn" onclick="showMessage()">Submit</button>
+        <p id="messageResponse" class="response-text"></p>
+    </div>
+    <div class="contact-form">
+        <button class="btn" onclick="redirectToCallCenter()">Call</button>
+    </div>
+    <img src="~/icons&images/7702598.jpg" alt="Contact Illustration" class="contact-img">
+</div>
+
+<script>
+    function showMessage() {
+        document.getElementById("messageResponse").innerText = "We have received your request and we will respond shortly";
+    }
+
+    function redirectToCallCenter() {
+        window.location.href = "@Url.Action("CallCenter", "Home")";
+    }
+</script>

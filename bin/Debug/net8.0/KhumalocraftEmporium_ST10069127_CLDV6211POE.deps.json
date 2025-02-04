@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KhumalocraftEmporium_ST10069127_CLDV6211POE/1.0.0": {
+        "runtime": {
+          "KhumalocraftEmporium_ST10069127_CLDV6211POE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KhumalocraftEmporium_ST10069127_CLDV6211POE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

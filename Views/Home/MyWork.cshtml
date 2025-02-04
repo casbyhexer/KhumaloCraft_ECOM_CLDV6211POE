@@ -1,0 +1,107 @@
+﻿@{
+    ViewData["Title"] = "My Work - KhumaloCraft";
+}
+
+<div class="mywork-container">
+    <div class="mywork-banner">
+        <img src="~/icons&images/Pen tool.png" alt="Pen Icon" class="mywork-banner-img">
+    </div>
+    <h1 class="mywork-title">My Work</h1>
+
+    <div class="product-gallery">
+        <div class="product">
+            <img src="~/MyWorkCrafts/22G1Final-600x600.jpg" alt="Zulu Woven Basket" class="product-img">
+            <h3>Zulu Woven Basket</h3>
+            <p>R250 / $15 / €13</p>
+            <button class="btn btn-cart" data-product="Zulu Woven Basket">Add to Cart</button>
+            <button class="btn btn-save" data-product="Zulu Woven Basket">Add to Saved Crafts</button>
+        </div>
+
+        <div class="product">
+            <img src="~/MyWorkCrafts/images (1).jpg" alt="African Djembe Drum" class="product-img">
+            <h3>African Djembe Drum</h3>
+            <p>R400 / $24 / €22</p>
+            <button class="btn btn-cart" data-product="African Djembe Drum">Add to Cart</button>
+            <button class="btn btn-save" data-product="African Djembe Drum">Add to Saved Crafts</button>
+        </div>
+
+        <div class="product">
+            <img src="~/MyWorkCrafts/images.jpg" alt="Zulu Tribal Mask" class="product-img">
+            <h3>Zulu Tribal Mask</h3>
+            <p>R350 / $20 / €18</p>
+            <button class="btn btn-cart" data-product="Zulu Tribal Mask">Add to Cart</button>
+            <button class="btn btn-save" data-product="Zulu Tribal Mask">Add to Saved Crafts</button>
+        </div>
+
+        <div class="product">
+            <img src="~/MyWorkCrafts/png-clipart-traditional-african-masks-african-art-africa-photography-logo-thumbnail.png" alt="Ndebele Decorative Mask" class="product-img">
+            <h3>Ndebele Decorative Mask</h3>
+            <p>R300 / $18 / €16</p>
+            <button class="btn btn-cart" data-product="Ndebele Decorative Mask">Add to Cart</button>
+            <button class="btn btn-save" data-product="Ndebele Decorative Mask">Add to Saved Crafts</button>
+        </div>
+
+        <div class="product">
+            <img src="~/MyWorkCrafts/pngtree-african-tribe-mask-with-earrings-png-image_3208346.jpg" alt="Xhosa Warrior Mask" class="product-img">
+            <h3>Xhosa Warrior Mask</h3>
+            <p>R280 / $17 / €15</p>
+            <button class="btn btn-cart" data-product="Xhosa Warrior Mask">Add to Cart</button>
+            <button class="btn btn-save" data-product="Xhosa Warrior Mask">Add to Saved Crafts</button>
+        </div>
+    </div>
+
+    <h2>Your Cart</h2>
+    <ul id="cartList" class="cart-list"></ul>
+
+    <!-- Purchase Button -->
+    <button id="purchaseBtn" class="btn btn-purchase" disabled>
+        <i class="fas fa-shopping-cart"></i> Purchase
+    </button>
+
+    <h2>Saved Crafts</h2>
+    <ul id="savedList" class="saved-list"></ul>
+</div>
+
+<!-- JavaScript for handling Cart and Saved Crafts -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        let cart = [];
+        let savedCrafts = [];
+
+        function updateCart() {
+            document.getElementById("cartList").innerHTML = cart.map(item => `<li>${item}</li>`).join('');
+            document.getElementById("purchaseBtn").disabled = cart.length === 0; // Enable button only if cart has items
+        }
+
+        function updateSavedCrafts() {
+            document.getElementById("savedList").innerHTML = savedCrafts.map(item => `<li>${item}</li>`).join('');
+        }
+
+        document.querySelectorAll(".btn-cart").forEach(button => {
+            button.addEventListener("click", function () {
+                let product = this.getAttribute("data-product");
+                cart.push(product);
+                updateCart();
+            });
+        });
+
+        document.querySelectorAll(".btn-save").forEach(button => {
+            button.addEventListener("click", function () {
+                let product = this.getAttribute("data-product");
+                savedCrafts.push(product);
+                updateSavedCrafts();
+            });
+        });
+
+        document.getElementById("purchaseBtn").addEventListener("click", function () {
+            if (cart.length > 0) {
+                alert("Thank you for your purchase! You have bought: \n" + cart.join(", "));
+                cart = []; // Clear cart after purchase
+                updateCart();
+            }
+        });
+    });
+</script>
+
+<!-- FontAwesome for Shopping Cart Icon -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">

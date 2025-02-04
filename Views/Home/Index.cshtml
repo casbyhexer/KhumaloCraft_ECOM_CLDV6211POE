@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home - KhumaloCraft";
+}
+
+<div class="hero">
+    <div class="hero-banner">
+        <img src="~/icons&images/Home-1.png" alt="Home Banner" class="banner-img">
+    </div>
+    <div class="hero-content">
+        <div class="hero-left">
+            <img src="~/icons&images/7078374.jpg" alt="Craft Image Left" class="craft-img">
+            <p class="hero-text">Be The 1st to Own One Of Our Exclusive Hand Crafted Products</p>
+        </div>
+        <div class="hero-center">
+            <h1>KhumaloCraft Emporium Welcomes You!</h1>
+            <p>Feel Free To Explore The World of Craft</p>
+            <a href="@Url.Action("MyWork", "Home")" class="btn">View Craft</a>
+        </div>
+        <div class="hero-right">
+            <img src="~/icons&images/7078412.jpg" alt="Craft Image Right" class="craft-img">
+            <p class="hero-text">Browse Our Premium On Demand Craftworks All The Way From South Africa</p>
+        </div>
+    </div>
+</div>
+
+<div class="footer">
+    <a href="@Url.Action("Index", "Home")" class="nav-btn">🏠 HOME</a>
+    <a href="@Url.Action("About", "Home")" class="nav-btn">📖 ABOUT</a>
+    <a href="@Url.Action("Contact", "Home")" class="nav-btn">📞 CONTACT</a>
+    <a href="@Url.Action("MyWork", "Home")" class="nav-btn">🎨 MY WORK</a>
+</div>

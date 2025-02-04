@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KhumalocraftEmporium_ST10069127_CLDV6211POE.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KhumalocraftEmporium_ST10069127_CLDV6211POE.urhqz2zcjj.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\22G1Final-600x600.jpg",
+      "PackagePath": "staticwebassets\\MyWorkCrafts\\22G1Final-600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\images (1).jpg",
+      "PackagePath": "staticwebassets\\MyWorkCrafts\\images (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\images.jpg",
+      "PackagePath": "staticwebassets\\MyWorkCrafts\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\png-clipart-traditional-african-masks-african-art-africa-photography-logo-thumbnail.png",
+      "PackagePath": "staticwebassets\\MyWorkCrafts\\png-clipart-traditional-african-masks-african-art-africa-photography-logo-thumbnail.png"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\pngtree-african-tribe-mask-with-earrings-png-image_3208346.jpg",
+      "PackagePath": "staticwebassets\\MyWorkCrafts\\pngtree-african-tribe-mask-with-earrings-png-image_3208346.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\pngtree-african-tribe-style-color-mask-png-image_3209285.jpg",
+      "PackagePath": "staticwebassets\\MyWorkCrafts\\pngtree-african-tribe-style-color-mask-png-image_3209285.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\10250700.jpg",
+      "PackagePath": "staticwebassets\\icons&images\\10250700.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\10564224.jpg",
+      "PackagePath": "staticwebassets\\icons&images\\10564224.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\7062114.jpg",
+      "PackagePath": "staticwebassets\\icons&images\\7062114.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\7062117.jpg",
+      "PackagePath": "staticwebassets\\icons&images\\7062117.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\7078374.jpg",
+      "PackagePath": "staticwebassets\\icons&images\\7078374.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\7078412.jpg",
+      "PackagePath": "staticwebassets\\icons&images\\7078412.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\72723-OEUDDM-763.jpg",
+      "PackagePath": "staticwebassets\\icons&images\\72723-OEUDDM-763.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\74304-OEB3TP-330.jpg",
+      "PackagePath": "staticwebassets\\icons&images\\74304-OEB3TP-330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\7702598.jpg",
+      "PackagePath": "staticwebassets\\icons&images\\7702598.jpg"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\Book.png",
+      "PackagePath": "staticwebassets\\icons&images\\Book.png"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\Home-1.png",
+      "PackagePath": "staticwebassets\\icons&images\\Home-1.png"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\Pen tool.png",
+      "PackagePath": "staticwebassets\\icons&images\\Pen tool.png"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons&images\\Phone.png",
+      "PackagePath": "staticwebassets\\icons&images\\Phone.png"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KhumalocraftEmporium_ST10069127_CLDV6211POE.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KhumalocraftEmporium_ST10069127_CLDV6211POE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KhumalocraftEmporium_ST10069127_CLDV6211POE.props",
+      "PackagePath": "build\\KhumalocraftEmporium_ST10069127_CLDV6211POE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KhumalocraftEmporium_ST10069127_CLDV6211POE.props",
+      "PackagePath": "buildMultiTargeting\\KhumalocraftEmporium_ST10069127_CLDV6211POE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KhumalocraftEmporium_ST10069127_CLDV6211POE.props",
+      "PackagePath": "buildTransitive\\KhumalocraftEmporium_ST10069127_CLDV6211POE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
