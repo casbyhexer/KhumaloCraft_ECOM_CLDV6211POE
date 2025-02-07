@@ -28,11 +28,11 @@ Push Notifications to Users via SignalR
 
 4️⃣ Tech Stack
 Components and Technology Used:
-Frontend:	ASP.NET Core MVC, Razor Pages, Bootstrap
-Backend:	C#, .NET 8, Entity Framework Core, Azure Durable Functions
-Database:	SQL Server (with EF Core Migrations)
-Cloud Services:	Azure Functions, Azure SignalR
-Version Control:	Git & GitHub
+Frontend:	ASP.NET Core MVC, Razor Pages, Bootstrap.
+Backend:	C#, .NET 8, Entity Framework Core, Azure Durable Functions.
+Database:	SQL Server (with EF Core Migrations).
+Cloud Services:	Azure Functions, Azure SignalR.
+Version Control:	Git & GitHub.
 
 # How to Run the Web App Locally 🚀
 Step 1: Clone the Repository;
