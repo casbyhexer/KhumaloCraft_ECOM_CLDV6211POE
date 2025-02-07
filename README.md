@@ -100,7 +100,7 @@ curl -X POST "http://localhost:7071/api/OrderProcessing_HttpStart" -H "Content-T
 🔹 Mobile App Version for Android & iOS.
 
 # Contact 📞
-📧 Email: [Your Email]
+📧 Email: cashexerbusiness@gmail.com
 🌐 GitHub: @casbyhexer
 
 # Happy Coding & Crafting! 🚀
