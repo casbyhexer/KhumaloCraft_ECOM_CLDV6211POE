@@ -1,4 +1,4 @@
-#🛍️ KhumaloCraft Emporium - E-Commerce Web App
+🛍️ #KhumaloCraft Emporium - E-Commerce Web App#
 An Elegant Marketplace for Unique Crafts & Custom Work
 Welcome to KhumaloCraft Emporium, a fully functional E-Commerce Web App designed to offer a seamless shopping experience for craft lovers, artisans, and digital creators. This project integrates modern web development technologies with cloud-based services, ensuring secure transactions, real-time updates, and efficient order processing.
 
