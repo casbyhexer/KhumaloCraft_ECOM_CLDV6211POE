@@ -1,6 +1,6 @@
-🛍️ #KhumaloCraft Emporium - E-Commerce Web App#
+🛍️ KhumaloCraft Emporium - E-Commerce Web App
 An Elegant Marketplace for Unique Crafts & Custom Work
-Welcome to KhumaloCraft Emporium, a fully functional E-Commerce Web App designed to offer a seamless shopping experience for craft lovers, artisans, and digital creators. This project integrates modern web development technologies with cloud-based services, ensuring secure transactions, real-time updates, and efficient order processing.
+Welcome to KhumaloCraft Emporium, a fully functional E-Commerce Web App designed to offer a seamless shopping experience for craft lovers, artisans, and digital creators. This project integrates modern web development technologies with secure transactions, real-time updates, and efficient order processing.
 
 🌟 Features & Implementations
 1️⃣ Web Application (ASP.NET Core MVC)
@@ -27,28 +27,28 @@ Push Notifications to Users via SignalR
 ✅ Order status tracking with real-time notifications.
 
 4️⃣ Tech Stack
-Frontend: ASP.NET Core MVC, Razor Pages, Bootstrap
-Backend: C#, .NET 8, Entity Framework Core, Azure Durable Functions
-Database: SQL Server (with EF Core Migrations)
-Cloud Services: Azure Functions, Azure SignalR
-Version Control: Git & GitHub
+Component	Technology Used
+Frontend	ASP.NET Core MVC, Razor Pages, Bootstrap
+Backend	C#, .NET 8, Entity Framework Core, Azure Durable Functions
+Database	SQL Server (with EF Core Migrations)
+Cloud Services	Azure Functions, Azure SignalR
+Version Control	Git & GitHub
 🚀 How to Run the Web App Locally
-1️⃣ Clone the repository:
-
+Step 1: Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/casbyhexer/KhumaloCraft_ECOM_CLDV6211POE.git
 cd KhumaloCraft_ECOM_CLDV6211POE
-2️⃣ Navigate to the Part2 (Web App) branch:
-
+Step 2: Navigate to the Part 2 (Web App) Branch
 bash
 Copy
 Edit
 git checkout Part2
-3️⃣ Open the project in Visual Studio and ensure all dependencies are installed.
-
-4️⃣ Update the appsettings.json with your SQL Server connection string:
+Step 3: Open the Project in Visual Studio
+Ensure all dependencies are installed.
+Step 4: Update SQL Server Connection String
+Edit the appsettings.json file:
 
 json
 Copy
@@ -56,41 +56,35 @@ Edit
 "ConnectionStrings": {
     "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=KhumaloCraftDB;Trusted_Connection=True;MultipleActiveResultSets=true"
 }
-5️⃣ Apply any pending migrations:
-
+Step 5: Apply Pending Migrations
 powershell
 Copy
 Edit
 dotnet ef database update
-6️⃣ Run the application:
-
+Step 6: Run the Application
 powershell
 Copy
 Edit
 dotnet run
-📦 Order Processing with Azure Durable Functions
-1️⃣ Navigate to the Part3 (Order Processing) branch:
-
+📦 Running Order Processing with Azure Durable Functions
+Step 1: Navigate to the Part 3 (Order Processing) Branch
 bash
 Copy
 Edit
 git checkout Part3
-2️⃣ Open the OrderProcessingFunctionApp in Visual Studio.
-
-3️⃣ Ensure Azure Functions Core Tools is installed:
-
-bash
+Step 2: Open the OrderProcessingFunctionApp in Visual Studio
+Ensure Azure Functions Core Tools is installed.
+Step 3: Install Azure Functions Core Tools
+powershell
 Copy
 Edit
 npm install -g azure-functions-core-tools@4 --unsafe-perm true
-4️⃣ Run the Azure Function locally:
-
+Step 4: Run the Azure Function Locally
 powershell
 Copy
 Edit
 func start
-5️⃣ Test the Order Processing API:
-
+Step 5: Test the Order Processing API
 powershell
 Copy
 Edit
@@ -109,8 +103,6 @@ Interested in contributing to KhumaloCraft Emporium? Feel free to fork the repos
 This project is open-source and available under the MIT License.
 
 📞 Contact
-For any inquiries, feature requests, or collaborations, reach out via:
-
 📧 Email: [Your Email]
 🌐 GitHub: @casbyhexer
 
