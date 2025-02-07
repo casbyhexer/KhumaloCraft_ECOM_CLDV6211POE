@@ -3,16 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\khumalocraftemporium_st10069127_cldv6211poe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:khumalocraftemporium_st10069127_cldv6211poe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:views\\home\\mywork.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\durablefunctions\\durablefunctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:durablefunctions\\durablefunctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\hubs\\orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:hubs\\orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\khumalocraftemporium_st10069127_cldv6211poe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:khumalocraftemporium_st10069127_cldv6211poe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\khumalocraftemporium_st10069127_cldv6211poe.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:khumalocraftemporium_st10069127_cldv6211poe.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\controllers\\myworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:controllers\\myworkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -99,16 +163,8 @@
       "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:views\\home\\callcenter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -119,16 +175,8 @@
       "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE72375D-1A84-4F77-944D-A9DE47638186}|KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj|c:\\users\\luwan\\onedrive\\documents\\uni\\bcad3\\cldv6211\\khumalocraftemporium_st10069127_cldv6211poe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -142,7 +190,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,329 +198,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "OrderHub.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Hubs\\OrderHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\OrderHub.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Hubs\\OrderHub.cs",
+              "RelativeToolTip": "Hubs\\OrderHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:29:39.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MyWork.cshtml",
               "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\MyWork.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\MyWork.cshtml",
               "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\MyWork.cshtml",
               "RelativeToolTip": "Views\\Home\\MyWork.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-02T16:03:13.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T16:02:56.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KhumalocraftEmporium_ST10069127_CLDV6211POE",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj",
-              "RelativeDocumentMoniker": "KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj",
-              "RelativeToolTip": "KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-29T14:35:54.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T13:12:04.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T16:02:15.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAwBAAAAAAAAAAAwwAkBAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-01T15:11:12.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T15:21:40.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "22G1Final-600x600.jpg -  [English (United Kingdom)] - Bitmap [600x600, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\22G1Final-600x600.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\MyWorkCrafts\\22G1Final-600x600.jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\22G1Final-600x600.jpg -  [English (United Kingdom)] - Bitmap [600x600, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\MyWorkCrafts\\22G1Final-600x600.jpg -  [English (United Kingdom)] - Bitmap [600x600, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-03T15:33:36.113Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [600x600, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "images (1).jpg -  [English (United Kingdom)] - Bitmap [273x184, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\images (1).jpg",
-              "RelativeDocumentMoniker": "wwwroot\\MyWorkCrafts\\images (1).jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\images (1).jpg -  [English (United Kingdom)] - Bitmap [273x184, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\MyWorkCrafts\\images (1).jpg -  [English (United Kingdom)] - Bitmap [273x184, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-03T15:34:30.792Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [273x184, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "images.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\images.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\MyWorkCrafts\\images.jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\images.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\MyWorkCrafts\\images.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-03T15:34:03.486Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "10564224.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\10564224.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\10564224.jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\10564224.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\10564224.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-02T18:37:14.744Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "10250700.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\10250700.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\10250700.jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\10250700.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\10250700.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-02T18:37:12.876Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "7062114.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7062114.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\7062114.jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7062114.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\7062114.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-02T18:37:17.36Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "7062117.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7062117.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\7062117.jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7062117.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\7062117.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-02T18:37:19.142Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "7078374.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7078374.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\7078374.jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7078374.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\7078374.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-02T18:37:20.596Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "7078412.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7078412.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\7078412.jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7078412.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\7078412.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-03T15:31:56.498Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "72723-OEUDDM-763.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\72723-OEUDDM-763.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\72723-OEUDDM-763.jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\72723-OEUDDM-763.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\72723-OEUDDM-763.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-03T15:31:54.528Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "74304-OEB3TP-330.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\74304-OEB3TP-330.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\74304-OEB3TP-330.jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\74304-OEB3TP-330.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\74304-OEB3TP-330.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-03T15:31:51.432Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "7702598.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7702598.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\7702598.jpg",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7702598.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\7702598.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-03T15:31:49.681Z",
-              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Book.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Book.png",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\Book.png",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Book.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\Book.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-03T15:31:47.992Z",
-              "EditorCaption": " -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Phone.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Phone.png",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\Phone.png",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Phone.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\Phone.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-03T15:31:33.297Z",
-              "EditorCaption": " -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Pen tool.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Pen tool.png",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\Pen tool.png",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Pen tool.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\Pen tool.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-02T18:37:25.941Z",
-              "EditorCaption": " -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Home-1.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Home-1.png",
-              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\Home-1.png",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Home-1.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "RelativeToolTip": "wwwroot\\icons\u0026images\\Home-1.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-02-02T18:37:22.394Z",
-              "EditorCaption": " -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CallCenter.cshtml",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\CallCenter.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\CallCenter.cshtml",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\CallCenter.cshtml",
-              "RelativeToolTip": "Views\\Home\\CallCenter.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T14:28:12.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T13:10:48.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T17:35:17.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -485,33 +237,189 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T16:51:50.465Z",
+              "DocumentIndex": 2,
+              "Title": "DurableFunctionService.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\DurableFunctions\\DurableFunctionService.cs",
+              "RelativeDocumentMoniker": "DurableFunctions\\DurableFunctionService.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\DurableFunctions\\DurableFunctionService.cs",
+              "RelativeToolTip": "DurableFunctions\\DurableFunctionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T14:23:10.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T16:51:52.561Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:21:15.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T22:26:33.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj.Backup.tmp",
+              "RelativeToolTip": "KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-07T14:25:55.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj",
+              "RelativeDocumentMoniker": "KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj",
+              "RelativeToolTip": "KhumalocraftEmporium_ST10069127_CLDV6211POE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-29T14:35:54.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyWorkController.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Controllers\\MyWorkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MyWorkController.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Controllers\\MyWorkController.cs",
+              "RelativeToolTip": "Controllers\\MyWorkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T23:40:38.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:10:48.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvxkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:55:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:45:37.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:58:11.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:43:55.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:45:02.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:42:11.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:57:58.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -524,7 +432,316 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T13:12:04.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T16:02:56.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T16:02:15.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAwwAkBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-01T15:11:12.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T15:21:40.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "22G1Final-600x600.jpg -  [English (United Kingdom)] - Bitmap [600x600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\22G1Final-600x600.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\MyWorkCrafts\\22G1Final-600x600.jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\22G1Final-600x600.jpg -  [English (United Kingdom)] - Bitmap [600x600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\MyWorkCrafts\\22G1Final-600x600.jpg -  [English (United Kingdom)] - Bitmap [600x600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-03T15:33:36.113Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [600x600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "images (1).jpg -  [English (United Kingdom)] - Bitmap [273x184, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\images (1).jpg",
+              "RelativeDocumentMoniker": "wwwroot\\MyWorkCrafts\\images (1).jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\images (1).jpg -  [English (United Kingdom)] - Bitmap [273x184, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\MyWorkCrafts\\images (1).jpg -  [English (United Kingdom)] - Bitmap [273x184, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-03T15:34:30.792Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [273x184, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "images.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\images.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\MyWorkCrafts\\images.jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\MyWorkCrafts\\images.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\MyWorkCrafts\\images.jpg -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-03T15:34:03.486Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [225x225, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "10564224.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\10564224.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\10564224.jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\10564224.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\10564224.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-02T18:37:14.744Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "10250700.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\10250700.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\10250700.jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\10250700.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\10250700.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-02T18:37:12.876Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "7062114.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7062114.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\7062114.jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7062114.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\7062114.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-02T18:37:17.36Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "7062117.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7062117.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\7062117.jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7062117.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\7062117.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-02T18:37:19.142Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 30,
+              "Title": "7078374.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7078374.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\7078374.jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7078374.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\7078374.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-02T18:37:20.596Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "7078412.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7078412.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\7078412.jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7078412.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\7078412.jpg -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-03T15:31:56.498Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [2000x2000, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "72723-OEUDDM-763.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\72723-OEUDDM-763.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\72723-OEUDDM-763.jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\72723-OEUDDM-763.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\72723-OEUDDM-763.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-03T15:31:54.528Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "74304-OEB3TP-330.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\74304-OEB3TP-330.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\74304-OEB3TP-330.jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\74304-OEB3TP-330.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\74304-OEB3TP-330.jpg -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-03T15:31:51.432Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [1667x1667, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "7702598.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7702598.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\7702598.jpg",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\7702598.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\7702598.jpg -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-03T15:31:49.681Z",
+              "EditorCaption": " -  [English (United Kingdom)] - Bitmap [3000x2000, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Book.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Book.png",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\Book.png",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Book.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\Book.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-03T15:31:47.992Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Phone.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Phone.png",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\Phone.png",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Phone.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\Phone.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-03T15:31:33.297Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Pen tool.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Pen tool.png",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\Pen tool.png",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Pen tool.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\Pen tool.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-02T18:37:25.941Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Home-1.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Home-1.png",
+              "RelativeDocumentMoniker": "wwwroot\\icons\u0026images\\Home-1.png",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\icons\u0026images\\Home-1.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "wwwroot\\icons\u0026images\\Home-1.png -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-02T18:37:22.394Z",
+              "EditorCaption": " -  [English (United Kingdom)] - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CallCenter.cshtml",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\CallCenter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CallCenter.cshtml",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Home\\CallCenter.cshtml",
+              "RelativeToolTip": "Views\\Home\\CallCenter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T14:28:12.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T17:35:17.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T16:51:50.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T16:51:52.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -537,20 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T15:21:15.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 44,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\luwan\\OneDrive\\Documents\\UNI\\BCAD3\\CLDV6211\\KhumalocraftEmporium_ST10069127_CLDV6211POE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

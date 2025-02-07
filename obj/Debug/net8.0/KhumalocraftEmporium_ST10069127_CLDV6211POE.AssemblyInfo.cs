@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KhumalocraftEmporium_ST10069127_CLDV6211POE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d54bf26fc895cfab1ec02478a4d918c6f4a190fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("KhumalocraftEmporium_ST10069127_CLDV6211POE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KhumalocraftEmporium_ST10069127_CLDV6211POE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,6 @@
-﻿@{
+﻿@model IEnumerable<KhumalocraftEmporium_ST10069127_CLDV6211POE.Models.Product>
+
+@{
     ViewData["Title"] = "My Work - KhumaloCraft";
 }
 
@@ -9,45 +11,25 @@
     <h1 class="mywork-title">My Work</h1>
 
     <div class="product-gallery">
-        <div class="product">
-            <img src="~/MyWorkCrafts/22G1Final-600x600.jpg" alt="Zulu Woven Basket" class="product-img">
-            <h3>Zulu Woven Basket</h3>
-            <p>R250 / $15 / €13</p>
-            <button class="btn btn-cart" data-product="Zulu Woven Basket">Add to Cart</button>
-            <button class="btn btn-save" data-product="Zulu Woven Basket">Add to Saved Crafts</button>
-        </div>
-
-        <div class="product">
-            <img src="~/MyWorkCrafts/images (1).jpg" alt="African Djembe Drum" class="product-img">
-            <h3>African Djembe Drum</h3>
-            <p>R400 / $24 / €22</p>
-            <button class="btn btn-cart" data-product="African Djembe Drum">Add to Cart</button>
-            <button class="btn btn-save" data-product="African Djembe Drum">Add to Saved Crafts</button>
-        </div>
-
-        <div class="product">
-            <img src="~/MyWorkCrafts/images.jpg" alt="Zulu Tribal Mask" class="product-img">
-            <h3>Zulu Tribal Mask</h3>
-            <p>R350 / $20 / €18</p>
-            <button class="btn btn-cart" data-product="Zulu Tribal Mask">Add to Cart</button>
-            <button class="btn btn-save" data-product="Zulu Tribal Mask">Add to Saved Crafts</button>
-        </div>
-
-        <div class="product">
-            <img src="~/MyWorkCrafts/png-clipart-traditional-african-masks-african-art-africa-photography-logo-thumbnail.png" alt="Ndebele Decorative Mask" class="product-img">
-            <h3>Ndebele Decorative Mask</h3>
-            <p>R300 / $18 / €16</p>
-            <button class="btn btn-cart" data-product="Ndebele Decorative Mask">Add to Cart</button>
-            <button class="btn btn-save" data-product="Ndebele Decorative Mask">Add to Saved Crafts</button>
-        </div>
-
-        <div class="product">
-            <img src="~/MyWorkCrafts/pngtree-african-tribe-mask-with-earrings-png-image_3208346.jpg" alt="Xhosa Warrior Mask" class="product-img">
-            <h3>Xhosa Warrior Mask</h3>
-            <p>R280 / $17 / €15</p>
-            <button class="btn btn-cart" data-product="Xhosa Warrior Mask">Add to Cart</button>
-            <button class="btn btn-save" data-product="Xhosa Warrior Mask">Add to Saved Crafts</button>
-        </div>
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var product in Model)
+            {
+                <div class="product">
+                    <img src="@product.ImageURL" alt="@product.ProductName" class="product-img">
+                    <h3>@product.ProductName</h3>
+                    <p>R@product.Price.ToString("N2")</p>
+                    <p><strong>Category:</strong> @product.Category</p>
+                    <p><strong>Availability:</strong> @(product.Availability ? "In Stock" : "Out of Stock")</p>
+                    <button class="btn btn-cart" data-product="@product.ProductName">Add to Cart</button>
+                    <button class="btn btn-save" data-product="@product.ProductName">Add to Saved Crafts</button>
+                </div>
+            }
+        }
+        else
+        {
+            <p>No products available.</p>
+        }
     </div>
 
     <h2>Your Cart</h2>
@@ -60,9 +42,14 @@
 
     <h2>Saved Crafts</h2>
     <ul id="savedList" class="saved-list"></ul>
+
+    <!-- Order Notifications -->
+    <h2>Order Notifications</h2>
+    <ul id="orderNotifications" class="notification-list"></ul>
 </div>
 
 <!-- JavaScript for handling Cart and Saved Crafts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
 <script>
     document.addEventListener("DOMContentLoaded", function () {
         let cart = [];
@@ -99,6 +86,33 @@
                 cart = []; // Clear cart after purchase
                 updateCart();
             }
+        });
+
+        // ✅ Initialize SignalR Connection
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("/orderHub")
+            .configureLogging(signalR.LogLevel.Information)
+            .build();
+
+        // ✅ Start SignalR Connection
+        async function startSignalR() {
+            try {
+                await connection.start();
+                console.log("Connected to SignalR");
+            } catch (err) {
+                console.error("SignalR Connection Error:", err);
+                setTimeout(startSignalR, 5000); // Retry connection
+            }
+        }
+        startSignalR();
+
+        // ✅ Listen for Order Status Updates
+        connection.on("ReceiveOrderUpdate", function (message) {
+            console.log("Order Update Received:", message);
+            const orderList = document.getElementById("orderNotifications");
+            const listItem = document.createElement("li");
+            listItem.textContent = message;
+            orderList.appendChild(listItem);
         });
     });
 </script>
